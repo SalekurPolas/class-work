@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539235000 source:d:\education\class\183\cse225l\coding\twodimensionaltype\main.cpp
+	<iostream>
+	"TwoDimensionalType.cpp"
+
+1539235316 d:\education\class\183\cse225l\coding\twodimensionaltype\twodimensionaltype.cpp
+	"TwoDimensionalType.h"
+	<iostream>
+
+1539234476 d:\education\class\183\cse225l\coding\twodimensionaltype\twodimensionaltype.h
+

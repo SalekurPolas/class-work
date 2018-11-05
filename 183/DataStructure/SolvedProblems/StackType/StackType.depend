@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540649535 source:d:\education\class\183\cse225l\coding\stacktype\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1540643850 d:\education\class\183\cse225l\coding\stacktype\stacktype.cpp
+	"StackType.h"
+
+1540656111 d:\education\class\183\cse225l\coding\stacktype\stacktype.h
+

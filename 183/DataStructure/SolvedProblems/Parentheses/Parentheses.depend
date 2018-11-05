@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541230685 source:d:\education\class\183\cse225l\coding\parentheses\main.cpp
+	<iostream>
+	"Parentheses.cpp"
+
+1540656111 d:\education\class\183\cse225l\coding\stacktype\stacktype.h
+
+1540643850 d:\education\class\183\cse225l\coding\stacktype\stacktype.cpp
+	"StackType.h"
+
+1540658658 d:\education\class\183\cse225l\coding\parentheses\parentheses.cpp
+	"Parentheses.h"
+
+1540795430 d:\education\class\183\cse225l\coding\parentheses\parentheses.h
+

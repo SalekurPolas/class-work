@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539328386 source:d:\education\class\183\cse225l\coding\studentinfoname\main.cpp
+	<iostream>
+	"StudentInfoName.cpp"
+
+1539330075 d:\education\class\183\cse225l\coding\studentinfoname\studentinfoname.cpp
+	<iostream>
+	"StudentInfoName.h"
+
+1539329686 d:\education\class\183\cse225l\coding\studentinfoname\studentinfoname.h
+	<string>
+
