@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541254426 source:d:\education\class\183\cse225l\coding\binarygenerator\main.cpp
+	<iostream>
+	"BinaryGenerator.cpp"
+
+1541249432 d:\education\class\183\cse225l\coding\binarygenerator\binarygenerator.cpp
+	"BinaryGenerator.h"
+
+1541249389 d:\education\class\183\cse225l\coding\binarygenerator\binarygenerator.h
+
