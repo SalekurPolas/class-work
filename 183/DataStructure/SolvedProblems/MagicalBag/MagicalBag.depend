@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542448553 source:d:\education\class\183\cse225l\coding\magicalbag\main.cpp
+	<iostream>
+	"PQType.cpp"
+
+1542447631 d:\education\class\183\cse225l\coding\magicalbag\pqtype.cpp
+	"PQType.h"
+
+1542447598 d:\education\class\183\cse225l\coding\magicalbag\pqtype.h
+	"HeapType.h"
+	"HeapType.cpp"
+
+1542447514 d:\education\class\183\cse225l\coding\magicalbag\heaptype.h
+
+1542447550 d:\education\class\183\cse225l\coding\magicalbag\heaptype.cpp
+	"HeapType.h"
+
