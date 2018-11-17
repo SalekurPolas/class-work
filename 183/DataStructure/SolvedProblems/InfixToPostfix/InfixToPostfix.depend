@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542216409 source:d:\education\class\183\cse225l\coding\infixtopostfix\main.cpp
+	<iostream>
+	"infixToPostfix.cpp"
+	<string.h>
+	<stdlib.h>
+
+1542188963 d:\education\class\183\cse225l\coding\infixtopostfix\infixtopostfix.cpp
+	<iostream>
+	"InfixToPostfix.h"
+
+1542188823 d:\education\class\183\cse225l\coding\infixtopostfix\infixtopostfix.h
+
