@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544004047 source:d:\education\class\183\cse225l\coding\binarysearchtree\main.cpp
+	<iostream>
+	"BinarySearchTree.cpp"
+
+1543994614 d:\education\class\183\cse225l\coding\binarysearchtree\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	"D:\Education\Class\183\CSE225L\Coding\QueType\QueType.cpp"
+	<iostream>
+
+1543944067 d:\education\class\183\cse225l\coding\binarysearchtree\binarysearchtree.h
+	"D:\Education\Class\183\CSE225L\Coding\QueType\QueType.h"
+
+1541245159 d:\education\class\183\cse225l\coding\quetype\quetype.h
+
+1544002646 d:\education\class\183\cse225l\coding\quetype\quetype.cpp
+	"QueType.h"
+
